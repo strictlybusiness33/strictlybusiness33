@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+I'm looking to learn
+im looking to ccollaborate on <POWERSHELL>
+I'M Looking to learn <[cmdlet> [cmd]
+is {POWERSHELL} DIFFCULT /?
+  
